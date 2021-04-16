@@ -1,0 +1,19 @@
+{
+  "name": "timeline",
+  "version": "1.0.0",
+  "description": "The main purpose of this project is get a little of fun, just that.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlejandroJMelo/timeline.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlejandroJMelo/timeline/issues"
+  },
+  "homepage": "https://github.com/AlejandroJMelo/timeline#readme"
+}
