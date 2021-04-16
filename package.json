@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AlejandroJMelo/timeline/issues"
   },
-  "homepage": "https://github.com/AlejandroJMelo/timeline#readme"
+  "homepage": "https://github.com/AlejandroJMelo/timeline#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
