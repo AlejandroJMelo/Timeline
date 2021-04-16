@@ -7,6 +7,10 @@ app.get('/', function (req, res) {
   res.send('Hello World')
 })
  
+app.get('/testdb', function(req, res) {
+  res.send('testdb')
+})
+
 app.listen(process.env.PORT || 3000, () =>{
   console.log(`Server on port ${process.env.PORT}`.green)
 } )
